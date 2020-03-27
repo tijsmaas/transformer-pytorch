@@ -1,9 +1,15 @@
 
 # Transformer
 
+**IMPORTANT: dragons ahead, not ready for use!**
+
+This is an unofficial reimplementation of the [Evolved Transformer](https://arxiv.org/abs/1901.11117) and is not ready to be used. 
+
+
+(original)
 This is a pytorch implementation of the
 [Transformer](https://arxiv.org/abs/1706.03762) model like
-[tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor).
+[tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor). 
 
 ## Prerequisite
 
